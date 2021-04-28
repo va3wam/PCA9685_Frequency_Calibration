@@ -7,7 +7,7 @@ To follow the instructions in this section it will help to use the following ori
 * Orient the PCA9685 so that the big capacitor and the two screw down power terminals  are to the right.
 
 ### The ESP32
-On the ESP32 use the following [physical pins]()https://www.electronicshub.org/esp32-pinout/:
+On the ESP32 use the following [physical pins](https://www.electronicshub.org/esp32-pinout/):
 * Pin 11 goes to bottom right pin of first cluster of PWM pins on the PCA9685.  
 * Pin 29 goes t the SCL header pin on the PCA9685.
 * Pin 26 goes to the SDA header pin on the PCA9685.
