@@ -34,7 +34,7 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x40, Wire);
 
 // Applied frequency in the test: can be changed to get the optimal
 // oscillator calibration for your targetted frequency.
-#define FREQUENCY             50
+#define FREQUENCY             49 //  Floating point
 
 // CAUTION: ONLY CONNECT server and ESP WITHOUT 5V ON V+ or green breakout supply pins. Use 3.3V on V+
 #define PIN_SERVO_FEEDBACK     3 // Connect Yellow PWM pin, 3 = last on first block
