@@ -1,5 +1,5 @@
 # Introduction
-This code is used to calibrarte the frequency of the PCA9685 I2C 16 channel servo driver using a 30 pin ESP32 DEVKIT V1 board. Note that the circuit used here does not allow for hooking up 5VDC power so you will not be able to drive an actual servo motor. This code and circuit is to demonstrate how the servo driver can be calibrated.
+This code is used to calibrate the frequency of the PCA9685 I2C 16 channel servo driver using a 30 pin ESP32 DEVKIT V1 board. Note that the circuit used here does not allow for hooking up 5VDC power so you will not be able to drive an actual servo motor. This code and circuit is to demonstrate how the servo driver can be calibrated.
 
 ## Overview
 In order to ensure that all Hexapod robots behave the same way we need to follow two seperate calibration procedures. The first calibration procedure sets the output frequency of the PCA9685 servo driver. The second procedure calibrates the mapping of angles with the movement range of each servo motor attached to the driver. 
