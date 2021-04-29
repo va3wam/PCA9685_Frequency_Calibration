@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/include",
-                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/src",
-                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/lib/Adafruit-PWM-Servo-Driver-Library-master",
+                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/include",
+                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/src",
+                "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/lib/Adafruit-PWM-Servo-Driver-Library-master",
                 "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
@@ -108,9 +108,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/include",
-                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/src",
-                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/pca9685Demo/lib/Adafruit-PWM-Servo-Driver-Library-master",
+                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/include",
+                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/src",
+                    "/Users/andrewmitchell/Documents/VisualStudioCode/va3wam/PlatformIO/Projects/PCA9685_Frequency_Calibration/lib/Adafruit-PWM-Servo-Driver-Library-master",
                     "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "/Users/andrewmitchell/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
